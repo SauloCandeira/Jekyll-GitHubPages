@@ -1,4 +1,4 @@
-# Antarctica Theme
+# IHK Theme
 ![4U6cuV.png](https://z3.ax1x.com/2021/09/22/4U6cuV.png)
 
 The goal of Antarctica is evolving to an elegant and feature-rich theme across platforms.
